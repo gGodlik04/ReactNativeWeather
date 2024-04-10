@@ -1,1 +1,1 @@
-# Leatning project on React Native. Weather from geo.
+# Learning project on React Native. Weather from geo.
